@@ -17,6 +17,8 @@
      - **Input Files**: `input_1.txt`, `input_2.txt`, etc.
      - **Output Files**: `output_1.txt`, `output_2.txt`, etc.
    - This allows for local testing and debugging without needing to manually copy inputs or expected outputs.
+   - ![preview](codecraker.png)
+
    
 ### 3. **Code Execution**
    - Write your solution in any of the supported languages (C++ or Python).

@@ -72,7 +72,7 @@
    - **Windows/Linux:** `Ctrl+Shift+P`
    - **MacOS:** `Cmd+Shift+P`
 2. Run the command `CPH: Fetch Test Cases`.
-3. Paste the LeetCode problem URL (e.g., `https://leetcode.com/problems/two-sum/`).
+3. Paste the LeetCode problem URL (e.g., `two-sum`, `3sum`).
 4. The extension will scrape the test cases, saving them in `.txt` format locally for use.
 
 ### Running Test Cases Locally

@@ -8,7 +8,7 @@
 ## Key Features
 
 ### 1. **Problem URL Fetching**
-   - Fetch problem details directly by pasting a LeetCode problem URL.
+   - Fetch problem details directly by typing a LeetCode problem Name.
    - Automatically scrape test cases, inputs, and expected outputs from the problem description.
    - Supports problems with multiple test cases and formats them for local testing.
    
